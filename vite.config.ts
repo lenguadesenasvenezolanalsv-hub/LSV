@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-      base: '/LSV_lengua_de_se-as_venezolana/',
+      base: '/LSV/',
 
     plugins: [
       react(),
